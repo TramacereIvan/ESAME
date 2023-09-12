@@ -108,7 +108,7 @@ nav ul li.logo  {
   flex: 1;
   color: white;
   font-size: 30px;
-  font-weight: 600;
+  font-weight: 700;
   cursor: default;
   user-select: none;
 }
@@ -323,7 +323,7 @@ section.hero h1 {
   font-size: 45px;
   margin-top: -3.5px;
   color: #fff;
-  font-weight: 550;
+  font-weight: 650;
   width: 100%;
 }
 
