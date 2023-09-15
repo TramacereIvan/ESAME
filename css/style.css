@@ -843,13 +843,6 @@ nav ul li.items:hover:after{
   }
   
 }
-
-@media all and (max-width: 768px){
-
-.homeport .cardport .description h4 {
-  opacity: 1;
-  transition: all 0.3s ease-out;
-}
   
 }
 
